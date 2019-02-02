@@ -187,7 +187,11 @@ print up_point
 
 
 > ---
-> layout: mypost
-> title: 在jupyter中利用pandas处理时间序列
-> categories: [pandas,jupyter,时间序列]
-> ---
+> layout: mypost  
+> title: 在jupyter中利用pandas处理时间序列  
+> categories: [pandas,jupyter,时间序列]  
+> ---  
+
+layout: mypost
+title: 在jupyter中利用pandas处理时间序列
+categories: [pandas,jupyter,时间序列]
