@@ -186,8 +186,8 @@ print up_point
 ![image](http://note.youdao.com/yws/res/18381/202B2BBDDBEC40618E259C91D5BF0CBF)
 
 
----
-layout: mypost
-title: 在jupyter中利用pandas处理时间序列
-categories: [pandas,jupyter,时间序列]
----
+> ---
+> layout: mypost
+> title: 在jupyter中利用pandas处理时间序列
+> categories: [pandas,jupyter,时间序列]
+> ---
