@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# 介绍
 
-You can use the [editor on GitHub](https://github.com/qinshimeng18/qinshimeng18.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+一款 jekyll 主题，简洁纯净，支持自适应，未引入任何框架，秒开页面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+下面有具体的样式截图，或者你可以到我的博客查看
 
-### Markdown
+[我的 Blog 预览](http://blog.tmaize.net/) 欢迎添加友链
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[github 地址](https://github.com/TMaize/tmaize-blog) 欢迎 star
 
-```markdown
-Syntax highlighted code block
+# 使用
 
-# Header 1
-## Header 2
-### Header 3
+1. CNAME 文件里的内容请换成你自己的域名(使用 github 的二级域名可以删除该文件)
 
-- Bulleted
-- List
+2. 请删除`_include/script.html` 里面的,MTA 腾讯移动分析和百度的自动推送
 
-1. Numbered
-2. List
+3. 修改`_data/links.json` 友情链接里的内容，如果可以，欢迎加上http://blog.tmaize.net
 
-**Bold** and _Italic_ and `Code` text
+4. 适当修改`_config.yml` 文件，具体作用请参考注释
 
-[Link](url) and ![Image](src)
-```
+5. 请参考我的文件放置规则，文章放在\_posts 目录，文章资源放在 posts 目录
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# 移动端截图
 
-### Jekyll Themes
+![mobile](static/readme/mobile.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qinshimeng18/qinshimeng18.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# PC 端截图
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![pc](static/readme/pc.jpg)
